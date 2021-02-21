@@ -1,0 +1,234 @@
+body.body{
+    background-color: #8F3A841A;
+}
+
+.logo {
+    text-decoration: none;
+    color: black;
+}
+
+.numero {
+    text-align: center;  
+    font-size: 25px;
+}
+
+/*menu de navigation*/
+
+.menu{
+    font-size: 15px;
+}
+
+#wrap{
+    width: 100%; 
+    height: 50px; 
+    margin: 10px;
+    z-index: 99; 
+    position: relative; 
+}
+
+.navbar{
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    position: absolute; 
+}
+
+.navbar li {
+    height: auto;
+    width: 135.8px; 
+    float: left;  
+    text-align: center; 
+    list-style: none;  
+    font: normal bold 13px/1em Arial, Verdana, Helvetica;  
+    padding: 0;
+    margin: 0;
+    background-color:#3A658F7D;
+}
+
+.navbar a{							
+    padding: 18px 0;  
+    text-decoration: none; 
+    color: black; 
+    display: block;
+}
+
+.navbar li ul{
+    display: none;
+    height: auto;									
+    margin: 0; 
+    padding: 0; 
+}
+
+.navbar li:hover ul{
+    display: block;
+}
+
+
+.image1 {
+    width: 50px;
+    float: left;
+}
+
+.accueil{
+    text-align: center;
+    font-size: 30px;
+}
+
+.info {
+    text-align: center;
+    font-size: 25px;
+}
+
+.question {
+    font-size: 25px;
+}
+
+.soins{
+    font-size: 20px;
+}
+
+.soins1{
+    text-align: center;
+    font-size: 20px;
+}
+
+.propos{
+    text-align: center;
+    font-size: 20px;
+}
+
+.a-propos{
+    font-size: 25px;
+}
+
+.rendez-vous{
+    text-align: center;
+    font-size: 30px;
+}
+
+.formulaire1{
+    text-align: center;
+    font-size: 25px;
+}
+
+img.img2{
+    width: 250px;
+    float:left;
+}
+
+img.img3{
+    width: 250px;
+    float: right;
+}
+
+.aplie{
+    text-align: center;
+    font-size: 22px;
+}
+
+.doctor{
+    font-size: 30px;
+    text-align: center;
+}
+
+img.img4{
+    width: 250px;
+    float: left;
+}
+
+.general{
+    float: left;
+}
+
+img.img5{
+    width: 250px;
+    float: right;
+}
+
+.cardio{
+    float: right;
+}
+
+img.img6{
+    width: 250px;
+}
+
+.news{
+    text-align: center;
+    font-size: 30px;
+}
+
+.txt1_txt2_txt3{
+    font-size: 25px;
+}
+
+img.img7{
+    width: 200px;
+}
+
+.article1{
+    text-align: center;
+}
+
+.txt4_txt5_txt6{
+    font-size: 25px;
+}
+
+img.img8{
+    width: 200px;
+}
+
+.article2{
+    text-align: center;
+}
+
+.txt7_txt8_txt9{
+    font-size: 25px;
+}
+
+img.img9{
+    width: 200px;
+}
+
+.article3{
+    text-align: center;
+}
+
+.contact{
+    text-align: center;
+}
+
+.txt10{
+    font-size: 30px;
+}
+
+.contact2{
+    text-align: center;
+    font-size: 25px;
+}
+
+.chiffre{
+    text-align: center;
+    font-size: 30px;
+}
+
+.témoignage{
+    text-align: center;
+    font-size: 25px;
+}
+
+.gravizen{
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style:none;
+    margin-left:0;
+    padding-left:0; 
+}
+
+.pied{
+    text-align: center;
+    font-size: 17px;
+}
